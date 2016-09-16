@@ -1,4 +1,4 @@
-This is a fork of the 26compat version of mongo-cxx-driver to build a Debian package from it.
+This is a fork of the `26compat` version of `mongo-cxx-driver` to build a Debian package from it.
 
 It uses the ideas from https://quentinsf.com/writings/debscons/ to generate a simple Debian binary package
 
